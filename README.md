@@ -56,7 +56,3 @@
 
   <img src="https://i.imgur.com/8c3bpVZ.png" alt="Goodbye image" width="300">
 </div>
-  <h2>thanks for visiting! hope to see you soon</h2>
-
-  <img src="https://i.imgur.com/8c3bpVZ.png" alt="Goodbye image">
-</div>
