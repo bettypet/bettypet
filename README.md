@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>⟡˙⋆ Welcome to my Profile! I'm Betty ⋆˙⟡</h1>
+  <h1> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&color=F70043&repeat=false&width=435&lines=%E2%9F%A1+Welcome+to+my+Profile!+I'm+Betty++%E2%9F%A1" alt="Typing SVG" /></a> </h1>
 
   <a href="https://www.deviantart.com/bettypet">
     <img src="https://i.imgur.com/bGu7nYz.png" alt="Alt text">
