@@ -45,9 +45,7 @@
   <p style="color:#3200BF;">
     i'm not a large fan of non-canon ships but i don't mind most!
     feel free to c+h even if. for a list of ships i don't int with,
-    please check my
-    <a href="https://bettypet.straw.page." style="color:#3200BF;">
-      strawpage
+    please check my strawpage
 
   <!-- Strawpage Badge -->
   [![Strawpage](https://img.shields.io/badge/Strawpage-Check%20ships-3200BF?style=for-the-badge)](https://bettypet.straw.page)
