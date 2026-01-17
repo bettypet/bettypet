@@ -10,9 +10,8 @@
 
 <div align="center">
 
-  <p style="color:#C40027;">
-    <a href="https://bettypet.atabook.org" style="color:#C40027; text-decoration:none;">
-      consider signing my atabook?
+  <!-- ATABOOK Badge -->
+  [![ATABOOK](https://img.shields.io/badge/Consider%20signing%20my%20ATABOOK%3F-C40027?style=for-the-badge)](https://bettypet.atabook.org)
     </a>
   </p>
 
