@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![Alt text](https://i.imgur.com/bGu7nYz.png)](https://www.deviantart.com/bettypet)
+
 <!--
 **bettypet/bettypet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
