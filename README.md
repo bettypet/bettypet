@@ -49,13 +49,9 @@
     <a href="https://bettypet.straw.page." style="color:#3200BF;">
       strawpage
 
-        <!-- Strawpage Badge -->
+  <!-- Strawpage Badge -->
   [![Strawpage](https://img.shields.io/badge/Strawpage-Check%20ships-3200BF?style=for-the-badge)](https://bettypet.straw.page)
-</div>
-
-    </a>
-  </p>
-
+  
 </div>
 
 <br>
