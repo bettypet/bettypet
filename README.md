@@ -1,4 +1,5 @@
-## Hi there 👋
+<div align="center">
+## ⟡˙⋆ Welcome to my Profile! I'm Betty ⋆˙⟡
 
 [![Alt text](https://i.imgur.com/bGu7nYz.png)](https://www.deviantart.com/bettypet)
 
