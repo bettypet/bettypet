@@ -1,8 +1,10 @@
 <div align="center">
- # **⟡˙⋆ Welcome to my Profile! I'm Betty ⋆˙⟡**
+  <h1>⟡˙⋆ Welcome to my Profile! I'm Betty ⋆˙⟡</h1>
 
-
-[![Alt text](https://i.imgur.com/bGu7nYz.png)](https://www.deviantart.com/bettypet)
+  <a href="https://www.deviantart.com/bettypet">
+    <img src="https://i.imgur.com/bGu7nYz.png" alt="Alt text">
+  </a>
+</div>
 
 <!--
 **bettypet/bettypet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
