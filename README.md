@@ -64,6 +64,3 @@
 
   <img src="https://i.imgur.com/8c3bpVZ.png" alt="Goodbye image">
 </div>
-
-  <img src="https://i.imgur.com/8c3bpVZ.png" alt="Goodbye image">
-</div>
