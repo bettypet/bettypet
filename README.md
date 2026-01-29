@@ -19,3 +19,8 @@
   <a href="https://bettypet.straw.page">
     <img src="https://img.shields.io/badge/Strawpage-Check%20ships-3200BF?style=for-the-badge" alt="Strawpage">
   </a>
+
+   <!-- Strawpage Badge -->
+  <a href="https://betty-screenshots.straw.page">
+    <img src="https://img.shields.io/badge/Strawpage-Pony%20Screenshotss-3200BF?style=for-the-badge" alt="Strawpage">
+  </a>
