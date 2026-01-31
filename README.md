@@ -21,3 +21,9 @@
    <!-- Strawpage Badge -->
   <a href="https://bettypet.straw.page">
     <img src="https://img.shields.io/badge/Strawpage-Check%20ships-3200BF?style=for-the-badge" alt="Strawpage">
+
+    <p align="center">
+  <a href="https://u8views.com/github/bettypet">
+    <img src="https://u8views.com/api/v1/github/profiles/235200042/views/day-week-month-total-count.svg" alt="betty !! profile views">
+  </a>
+</p>
