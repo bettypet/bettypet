@@ -8,4 +8,4 @@
   <img src="https://i.imgur.com/msoaJOf.png" width="600">
 
  <p align="center"> 
-  <img src="https://i.imgur.com/T7gpbar.png" width="800">
+  <img src="https://i.imgur.com/T7gpbar.png" width="600">
