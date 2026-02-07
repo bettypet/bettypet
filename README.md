@@ -16,7 +16,20 @@
  <p align="center"> 
   <img src="https://i.imgur.com/A5P1sxz.png" width="600">
 
-<p align="center">
-${
-\textsf{
-\color{#7a5a3a}Hello,\ welcome.\ My\ name\ is\ 
+<p align="left">
+  <a href="https://prettycannibal.atabook.org/">, 𝙰𝚃𝙰 𝙱𝙾𝙾𝙺 !</a>
+</p>
+
+<p align="right">
+  <a href="<p align="left">
+  <a href="https://prettycannibal.atabook.org/">, 𝙰𝚃𝙰 𝙱𝙾𝙾𝙺 !</a>
+</p>
+
+<p align="right">
+  <a href="<p align="left">
+  <a href="https://bettypet.straw.page">, straw</a>
+</p>
+
+<p align="right">
+  <a href="https://bettypet.atabook.org">, atabook !</a>
+</p>
