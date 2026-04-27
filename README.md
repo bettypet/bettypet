@@ -1,8 +1,11 @@
 <p align="center"> 
-  <img src="https://i.imgur.com/i2EOBxg.png" width="600">
+  <img src="https://i.imgur.com/dLWVTTr.png" width="600">
 
 <p align="center"> 
  <img src="https://komarev.com/ghpvc/?username=bettypet&color=AD8E58&style=Zen+Old+Mincho&duration=flat&label=⋆believers⋆"/>
+
+ <p align="center"> 
+  <img src="https://i.imgur.com/JjbCcLu.jpeg" width="600">
 
  <p align="center"> 
   <img src="https://i.imgur.com/L09pHJf.png width="700">
@@ -11,8 +14,6 @@
  <p align="center"> 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1000&color=A57C51&width=435&lines=murders+of+murderers+living+in+fear+of+it" alt="Typing SVG" /></a>
 
- <p align="center"> 
-  <img src="https://i.imgur.com/A5P1sxz.png" width="600">
 
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
