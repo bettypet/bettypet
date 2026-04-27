@@ -7,8 +7,6 @@
  <p align="center"> 
   <img src="https://i.imgur.com/L09pHJf.png width="700">
 
- <p align="center"> 
-  <img src="https://i.imgur.com/FPOEv7V.png" width="700">
 
  <p align="center"> 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1000&color=A57C51&width=435&lines=murders+of+murderers+living+in+fear+of+it" alt="Typing SVG" /></a>
