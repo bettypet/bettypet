@@ -2,7 +2,7 @@
   <img src="https://i.imgur.com/WVhAo9y.png" width="600">
 
 <p align="center"> 
- <img src="https://komarev.com/ghpvc/?username=bettypet&color=AD8E58&style=Zen+Old+Mincho&duration=flat&label=⋆believers⋆"/>
+ <img src="https://komarev.com/ghpvc/?username=bettypet&color=AD8E58&style=Zen+Old+Mincho&duration=flat&label=⋆toons⋆"/>
 
  <p align="center"> 
   <img src="https://i.imgur.com/NIKmgKY.png" width="600">
