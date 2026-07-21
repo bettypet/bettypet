@@ -1,11 +1,11 @@
 <p align="center"> 
-  <img src="https://i.imgur.com/WVhAo9y.png" width="600">
+  <img src="https://i.imgur.com/i2EOBxg.png" width="600">
 
 <p align="center"> 
- <img src="https://komarev.com/ghpvc/?username=bettypet&color=AD8E58&style=Zen+Old+Mincho&duration=flat&label=⋆toons⋆"/>
+ <img src="https://komarev.com/ghpvc/?username=bettypet&color=AD8E58&style=Zen+Old+Mincho&duration=flat&label=⋆believers⋆"/>
 
  <p align="center"> 
-  <img src="https://i.imgur.com/NIKmgKY.png" width="600">
+  <img src="https://i.imgur.com/L09pHJf.png width="700">
 
 
  <p align="center"> 
