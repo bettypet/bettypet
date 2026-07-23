@@ -1,13 +1,13 @@
 <p align="center"> 
   <img src="https://i.imgur.com/pP4hW9q.png)" width="600">
-  <p align="center"> 
+<p align="center"> 
   <img src="https://i.imgur.com/ZrocB5A.png)" width="600">
 
 <p align="center"> 
- <img src="https://komarev.com/ghpvc/?username=bettypet&color=AD8E58&style=Zen+Old+Mincho&duration=flat&label=⋆believers⋆"/>
+ <img src="https://komarev.com/ghpvc/?username=bettypet&color=D8A165&style=Zen+Old+Mincho&duration=flat&label=⋆sinners⋆"/>
 
  <p align="center"> 
-  <img src="https://i.imgur.com/L09pHJf.png width="700">
+  <img src="https://i.imgur.com/ABzrhN1.png" width="700">
 
 
  <p align="center"> 
