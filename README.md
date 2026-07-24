@@ -4,10 +4,10 @@
   <img src="https://i.imgur.com/ZrocB5A.png)" width="600">
 
 <p align="center"> 
- <img src="https://komarev.com/ghpvc/?username=bettypet&color=D8A165&style=Zen+Old+Mincho&duration=flat&label=⋆sinners⋆"/>
+ <img src="https://komarev.com/ghpvc/?username=bettypet&color=D8A165&style=Zen+Old+Mincho&duration=flat&label=⋆believers⋆"/>
 
  <p align="center"> 
-  <img src="https://i.imgur.com/ABzrhN1.png" width="700">
+  <img src="https://i.imgur.com/3PRGsrA.png" width="700">
 
 
  <p align="center"> 
